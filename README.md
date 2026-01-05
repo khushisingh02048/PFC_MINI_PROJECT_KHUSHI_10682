@@ -103,7 +103,3 @@ It improves understanding of C programming concepts and security logic.
 
 ---
 
-## 13. Output Screenshot
-Below is the sample output of the program:
-
-![Program Output]("https://github.com/khushisingh02048/PFC_MINI_PROJECT_KHUSHI_10682/blob/main/Screenshot%202026-01-05%20102902.png")
