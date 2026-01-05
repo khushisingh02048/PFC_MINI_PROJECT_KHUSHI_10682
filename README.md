@@ -106,4 +106,4 @@ It improves understanding of C programming concepts and security logic.
 ## 13. Output Screenshot
 Below is the sample output of the program:
 
-![Program Output]("Screenshot%2026-01-05%102902.png")
+![Program Output]("Screenshot%202026-01-05%20102902.png")
